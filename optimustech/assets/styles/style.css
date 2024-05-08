@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url(header.css);
+
+
+:root{
+    --fonte-principal: 'Intel';
+    --cor-texto-logo: #3A404E;
+    --cor-item-menu: #667085;
+    --cor-branco: #FFFFFF;
+    --cor-vermelho: #8E2424;
+}
