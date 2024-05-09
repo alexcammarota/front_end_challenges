@@ -40,7 +40,7 @@
 
 .header__menu__item__link {
     text-decoration: none;
-    color: var(--cor-item-menu);
+    color: var(--cor-cinza-claro);
     font-size: 1rem;
 }
 

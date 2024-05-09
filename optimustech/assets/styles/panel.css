@@ -1,0 +1,29 @@
+.panel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel__subtitulo{
+    color: var(--cor-vermelho);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 6rem;
+}
+
+.panel__titulo{
+    color: var(--cor-preto);
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 1.25rem 0;
+}
+
+.panel__descricao{
+    color: var(--cor-cinza-claro);
+    font-size: 1.25rem;
+    font-weight: 400;
+    padding: 0 42rem;
+    text-align: center;
+    margin-bottom: 6rem;
+}
