@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: auto;
 }
 
 .panel__subtitulo{
@@ -23,7 +24,7 @@
     color: var(--cor-cinza-claro);
     font-size: 1.25rem;
     font-weight: 400;
-    padding: 0 42rem;
+    margin: 0 42rem;
     text-align: center;
     margin-bottom: 6rem;
 }
