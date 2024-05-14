@@ -1,3 +1,7 @@
+.metricas{
+    display: flex;
+    justify-content: center;
+}
 .metricas__lista{
     display: flex;
     flex-direction: row;
