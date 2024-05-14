@@ -1,0 +1,32 @@
+.metricas__lista{
+    display: flex;
+    flex-direction: row;
+    margin: 0 24rem 6rem 24rem;
+    list-style: none;
+    gap: 2rem;
+}
+
+.metricas__lista__item{
+    flex:1
+}
+
+.metricas__lista__item__valor{
+    color: var(--cor-vermelho);
+    font-size: 3.75rem;
+    font-weight: 600;
+}
+
+.metricas__lista__item__texto{
+    color: var(--cor-preto);
+    font-size: 1.125rem;
+    font-weight: 500;
+    margin: 0.75rem 0 0.5rem 0;
+}
+
+
+.metricas__lista__item__descricao{
+    color: var(--cor-cinza-claro);
+    font-size: 1rem;
+    font-weight: 400;
+    padding-right: 3rem;
+}

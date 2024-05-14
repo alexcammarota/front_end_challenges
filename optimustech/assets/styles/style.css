@@ -1,11 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url(header.css);
+@import url(panel.css);
+@import url(metricas.css);
+@import url(vagas.css);
+@import url(depoimentos.css);
+@import url(footer.css);
 
 
 :root{
     --fonte-principal: 'Intel';
     --cor-texto-logo: #3A404E;
-    --cor-item-menu: #667085;
+    --cor-cinza-claro: #667085;
     --cor-branco: #FFFFFF;
     --cor-vermelho: #8E2424;
+    --cor-vermelho-transparente: rgba(142, 36, 36, 0.05);
+    --cor-preto: #101828;
+    --cor-background-cinza: #98A2B3;
+    --cor-footer-cinza: #F9FAFB;
+    --cor-borda-input-cinza: #D0D5DD;
 }
