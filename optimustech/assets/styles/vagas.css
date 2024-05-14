@@ -37,3 +37,45 @@
     width: 80%;
     margin-bottom: 6rem;
 }
+
+.vagas__vagas-abertas{
+    width: 50%;
+}
+
+.vagas__vagas-abertas__lista {
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
+.vagas__vagas-abertas__lista__titulo{
+    text-align: left;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--cor-preto);
+    margin-bottom: 2rem;
+}
+
+.vagas__vagas-abertas__lista__item{
+    text-align: left;
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    color: var(--cor-preto);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.vagas__vagas-abertas__lista__item__cargo{
+    font-weight: 500;
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+}
+
+.vagas__vagas-abertas__lista__item__detalhes{
+    display: flex;
+    flex-direction: row;
+    color: var(--cor-cinza-claro);
+    font-weight: 500;
+    font-size: 1rem;
+    gap: 1.5rem;
+}
+
